@@ -7,6 +7,9 @@
 
 > Real-time keyboard heatmap and typing analytics that runs entirely in your browser. Scraped from HN/Reddit trends and built autonomously.
 
+**Live Demo: https://typeheat.vercel.app**
+**Idea Source: [HN — What are you working on (March 2026)](https://news.ycombinator.com/item?id=47230384)**
+
 ## What It Does
 
 TypeHeat renders a real-time keyboard heatmap as you type. Each key lights up with color intensity based on how often you press it, going from cool blues through fiery reds to bright white for your most-used keys.
